@@ -1,0 +1,12 @@
+[project]
+name = "finops-agents"
+version = "0.1.0"
+description = "AI agents with FinOps capabilities"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-adk>=1.20.0",
+    "google-cloud-bigquery>=3.38.0",
+    "python-dotenv>=1.2.1",
+    "toolbox-core>=0.5.3",
+]

@@ -1,0 +1,22 @@
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Google Service Account Key
+gcp_key.json
+
+# Tools
+tools.yaml
+
+# PyPI configuration file
+.pypirc
+
+# pycache
+__pycache__/
+*.pyc
